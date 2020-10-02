@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Kristin Haberkamp', // Title for your website.
-    tagline: 'Technical Leader, Scrum Master, and Accessibilty Evangelist',
+    tagline: 'Technical Leader, Scrum Master, and Accessibilty Evangelist.',
     profilePhoto: 'img/profile.png',
     url: 'https://khaberkamp.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
